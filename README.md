@@ -1,5 +1,5 @@
-# airflow2
-airflow2 with mssql. This installs with pre defined airflow2.tar.gz file. if you have an existing setup , please make tar.gz file from airflow home where airflow.cfg and webserver_config.py files exists.This Also should exist python virtual environment with python version 3.6.
+# Airflow2 with MSSQL 
+Airflow2 with mssql. This installs with pre defined airflow2.tar.gz file. if you have an existing setup , please make tar.gz file from airflow home where airflow.cfg and webserver_config.py files exists.This Also should exist python virtual environment with python version 3.6.
 1. Role name is airflow2 
 2. Tasks prereqs ,setup (setting the enviroment for airflow installation) , install and services 
 3. Called by airflow2.yml from base directory with role airflow2
