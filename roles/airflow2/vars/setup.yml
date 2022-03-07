@@ -13,7 +13,7 @@ airflow_pip_version: 20.2.4
 airflow_install_path: /opt/airflow
 airflow_version_file: '{{ airflow_install_path }}/vers'
 airflow_executable_path: /opt/airflow/airflow2/bin/airflow
-pass: aws123
+pass: airflow123
 
 directories:
   - /var/log/airflow 
